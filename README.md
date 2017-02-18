@@ -1,3 +1,3 @@
 # PiTop-hacks
 
-hacks for the PiTop Creed
+hacks for the PiTop Ceed
